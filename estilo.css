@@ -1,0 +1,78 @@
+body{
+	margin-left: 5px;
+	color:#FFFFFF;
+	background:#c8c8c8;
+	font:600 16px/18px 'Open Sans',sans-serif;
+}
+.Tito {	
+	width:100%;
+	margin-left: 0px;
+	margin-top: 10px;
+	max-width:305px;
+	min-height:220px;
+	position:relative;
+	border: solid 5px black;
+	border-radius: 20px;
+  background-color: #B5261D ;
+  box-shadow:0 12px 15px 0 rgba(1,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+
+.Tincho {
+	font-size: 25px;
+	width: 100%;
+	margin-top: 10px;
+	text-shadow: black 0 2px;
+}
+.Base {
+	font-size: 20px ;
+	width: 100%;
+	margin-left: 5px;
+	
+	text-shadow: black 0 2px;
+} 
+
+.cosas{
+	border: solid;
+	width: 100px;
+	height: 20px;
+	font-size: 10px;
+
+}
+
+.Img1{
+	width: 240px;
+	height: 320px;
+	border: solid 2px black;
+	bottom: 500px;
+	left:40%;
+	position: relative;
+box-shadow:0 12px 15px 0 rgba(1,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+.Img2{
+	width: 240px;
+	height: 320px;
+	border: solid 2px black;
+	bottom: 500px;
+	left: 40%;
+	position: relative;
+box-shadow:0 12px 15px 0 rgba(1,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+.Img3{
+	width: 240px;
+	height: 320px;
+	border: solid 2px black;
+	bottom: 500px;
+	left:40%;
+	position: relative;
+box-shadow:0 12px 15px 0 rgba(1,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+}
+
+iframe {
+	bottom: 500px;
+left: 47%;
+position:  relative;
+box-shadow:0 12px 15px 0 rgba(1,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+
+}
+
+
